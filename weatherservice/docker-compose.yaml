@@ -1,0 +1,22 @@
+version: '1'
+
+services:
+
+  weatherservice:
+    image: 'ilya_novitskiy/weather_service:v1'
+    build:
+      context: .
+    container_name: weather_service
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://rest_project:5432/rest_project
+      - SPRING_DATASOURCE_USERNAME=postgres
+      - SPRING_DATASOURCE_PASSWORD=PASSWORD
+      - SPRING_JPA_HIBERNATE_DDL_AUTO=update
+    ports:
+      - "8080:8080"
+    networks:
+      - postgres_network
+
+networks:
+  postgres_network:
+    external: true
