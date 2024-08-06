@@ -130,14 +130,14 @@ After your installation and deployment, you have two ways :
   
   <div align="center">
   <a href="https://github.com/Saintghetto17/RestApiApp/blob/main/readme_images/get_all.png">
-    <img src="readme_images/get_all.png" alt="Logo" width="750" height="300">
+    <img src="readme_images/get_all.png" alt="Logo" width="550" height="150">
   </a>
     
   <br/>
   
   <div align="center">
   <a href="https://github.com/Saintghetto17/RestApiApp/blob/main/readme_images/get_rainy.png">
-      <img src="readme_images/get_rainy.png" alt="Logo" width="750" height="300">
+      <img src="readme_images/get_rainy.png" alt="Logo" width="550" height="150">
   </a>
     
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
