@@ -9,7 +9,7 @@ The RestApiApp is my first app that somehow use two modern architecture features
 <br />
 <div align="center">
   <a href="https://github.com/Saintghetto17/RestApiApp/blob/main/readme_images/rest-api.png">
-    <img src="readme_images/rest-api.png" alt="Logo" width="100" height="100">
+    <img src="readme_images/rest-api.png" alt="Logo" width="500" height="500">
   </a>
 
 
