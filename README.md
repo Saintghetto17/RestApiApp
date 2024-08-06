@@ -30,9 +30,8 @@ Things that I want to make and that are not done yet:
 * Integration with some kind of Public Weather/temperature services by its API (f.e Yandex Weather) 
 * Make the app more clever : asyncronyous task handling, use indexes in database, add some message brocker (f.e Kafka).
   
-Of course, my project now not touch enough, but it is the step for a good one.
+Of course, my project now not tough enough, but it is the step for a good one.
 
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
