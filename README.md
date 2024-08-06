@@ -116,24 +116,28 @@ After your installation and deployment, you have two ways :
 2. Send http-requests with POSTMAN or other interfaces:
   <div align="center">
   <a href="https://github.com/Saintghetto17/RestApiApp/blob/main/readme_images/post-register.png">
+    <img src="readme_images/post-register.png" alt="Logo" width="200" height="200">
   </a>
     
   <br/>
   
   <div align="center">
   <a href="https://github.com/Saintghetto17/RestApiApp/blob/main/readme_images/post_add_measure.png">
+    <img src="readme_images/post_add_measure.png" alt="Logo" width="200" height="200">
   </a>
     
   <br/>
   
   <div align="center">
   <a href="https://github.com/Saintghetto17/RestApiApp/blob/main/readme_images/get_all.png">
+    <img src="readme_images/get_all.png" alt="Logo" width="200" height="200">
   </a>
     
   <br/>
   
   <div align="center">
   <a href="https://github.com/Saintghetto17/RestApiApp/blob/main/readme_images/get_rainy.png">
+      <img src="readme_images/get_rainy.png" alt="Logo" width="200" height="200">
   </a>
     
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
