@@ -39,8 +39,6 @@ Of course, my project now not tough enough, but it is the step for a good one.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![Maven][Apache-Maven]][Maven-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
